@@ -1,0 +1,7 @@
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\06_TargetPractice\bin\Debug\06_TargetPractice.exe.config
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\06_TargetPractice\bin\Debug\06_TargetPractice.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\06_TargetPractice\bin\Debug\06_TargetPractice.pdb
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\06_TargetPractice\obj\Debug\06_TargetPractice.csprojResolveAssemblyReference.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\06_TargetPractice\obj\Debug\06_TargetPractice.csproj.CoreCompileInputs.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\06_TargetPractice\obj\Debug\06_TargetPractice.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\06_TargetPractice\obj\Debug\06_TargetPractice.pdb

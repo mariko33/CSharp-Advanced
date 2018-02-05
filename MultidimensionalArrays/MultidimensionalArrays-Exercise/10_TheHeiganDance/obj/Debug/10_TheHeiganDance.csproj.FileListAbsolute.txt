@@ -1,0 +1,7 @@
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\10_TheHeiganDance\bin\Debug\10_TheHeiganDance.exe.config
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\10_TheHeiganDance\bin\Debug\10_TheHeiganDance.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\10_TheHeiganDance\bin\Debug\10_TheHeiganDance.pdb
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\10_TheHeiganDance\obj\Debug\10_TheHeiganDance.csprojResolveAssemblyReference.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\10_TheHeiganDance\obj\Debug\10_TheHeiganDance.csproj.CoreCompileInputs.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\10_TheHeiganDance\obj\Debug\10_TheHeiganDance.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\10_TheHeiganDance\obj\Debug\10_TheHeiganDance.pdb

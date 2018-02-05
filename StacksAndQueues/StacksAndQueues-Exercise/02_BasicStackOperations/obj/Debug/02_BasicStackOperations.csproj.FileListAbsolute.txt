@@ -1,0 +1,7 @@
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\02_BasicStackOperations\bin\Debug\02_BasicStackOperations.exe.config
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\02_BasicStackOperations\bin\Debug\02_BasicStackOperations.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\02_BasicStackOperations\bin\Debug\02_BasicStackOperations.pdb
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\02_BasicStackOperations\obj\Debug\02_BasicStackOperations.csprojResolveAssemblyReference.cache
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\02_BasicStackOperations\obj\Debug\02_BasicStackOperations.csproj.CoreCompileInputs.cache
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\02_BasicStackOperations\obj\Debug\02_BasicStackOperations.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\02_BasicStackOperations\obj\Debug\02_BasicStackOperations.pdb

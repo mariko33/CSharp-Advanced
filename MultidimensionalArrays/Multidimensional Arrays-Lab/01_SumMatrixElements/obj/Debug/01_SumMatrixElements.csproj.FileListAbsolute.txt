@@ -1,0 +1,7 @@
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\01_SumMatrixElements\bin\Debug\01_SumMatrixElements.exe.config
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\01_SumMatrixElements\bin\Debug\01_SumMatrixElements.exe
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\01_SumMatrixElements\bin\Debug\01_SumMatrixElements.pdb
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\01_SumMatrixElements\obj\Debug\01_SumMatrixElements.csprojResolveAssemblyReference.cache
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\01_SumMatrixElements\obj\Debug\01_SumMatrixElements.csproj.CoreCompileInputs.cache
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\01_SumMatrixElements\obj\Debug\01_SumMatrixElements.exe
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\01_SumMatrixElements\obj\Debug\01_SumMatrixElements.pdb

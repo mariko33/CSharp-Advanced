@@ -1,0 +1,7 @@
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\11_ParkingSystem\bin\Debug\11_ParkingSystem.exe.config
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\11_ParkingSystem\bin\Debug\11_ParkingSystem.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\11_ParkingSystem\bin\Debug\11_ParkingSystem.pdb
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\11_ParkingSystem\obj\Debug\11_ParkingSystem.csprojResolveAssemblyReference.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\11_ParkingSystem\obj\Debug\11_ParkingSystem.csproj.CoreCompileInputs.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\11_ParkingSystem\obj\Debug\11_ParkingSystem.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\11_ParkingSystem\obj\Debug\11_ParkingSystem.pdb

@@ -1,0 +1,7 @@
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\03_SquaresInMatrix\bin\Debug\03_SquaresInMatrix.exe.config
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\03_SquaresInMatrix\bin\Debug\03_SquaresInMatrix.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\03_SquaresInMatrix\bin\Debug\03_SquaresInMatrix.pdb
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\03_SquaresInMatrix\obj\Debug\03_SquaresInMatrix.csprojResolveAssemblyReference.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\03_SquaresInMatrix\obj\Debug\03_SquaresInMatrix.csproj.CoreCompileInputs.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\03_SquaresInMatrix\obj\Debug\03_SquaresInMatrix.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\03_SquaresInMatrix\obj\Debug\03_SquaresInMatrix.pdb

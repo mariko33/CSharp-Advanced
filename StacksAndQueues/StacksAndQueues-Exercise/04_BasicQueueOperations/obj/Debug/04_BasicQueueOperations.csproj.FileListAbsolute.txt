@@ -1,0 +1,6 @@
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\04_BasicQueueOperations\bin\Debug\04_BasicQueueOperations.exe.config
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\04_BasicQueueOperations\bin\Debug\04_BasicQueueOperations.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\04_BasicQueueOperations\bin\Debug\04_BasicQueueOperations.pdb
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\04_BasicQueueOperations\obj\Debug\04_BasicQueueOperations.csproj.CoreCompileInputs.cache
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\04_BasicQueueOperations\obj\Debug\04_BasicQueueOperations.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\04_BasicQueueOperations\obj\Debug\04_BasicQueueOperations.pdb

@@ -1,0 +1,7 @@
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\08_RadioactiveBunnies\bin\Debug\08_RadioactiveBunnies.exe.config
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\08_RadioactiveBunnies\bin\Debug\08_RadioactiveBunnies.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\08_RadioactiveBunnies\bin\Debug\08_RadioactiveBunnies.pdb
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\08_RadioactiveBunnies\obj\Debug\08_RadioactiveBunnies.csprojResolveAssemblyReference.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\08_RadioactiveBunnies\obj\Debug\08_RadioactiveBunnies.csproj.CoreCompileInputs.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\08_RadioactiveBunnies\obj\Debug\08_RadioactiveBunnies.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\08_RadioactiveBunnies\obj\Debug\08_RadioactiveBunnies.pdb

@@ -1,0 +1,6 @@
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\05_AppliedArithmetics\bin\Debug\05_AppliedArithmetics.exe.config
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\05_AppliedArithmetics\bin\Debug\05_AppliedArithmetics.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\05_AppliedArithmetics\bin\Debug\05_AppliedArithmetics.pdb
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\05_AppliedArithmetics\obj\Debug\05_AppliedArithmetics.csproj.CoreCompileInputs.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\05_AppliedArithmetics\obj\Debug\05_AppliedArithmetics.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\05_AppliedArithmetics\obj\Debug\05_AppliedArithmetics.pdb

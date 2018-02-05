@@ -1,0 +1,7 @@
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\01_MatrixOfPalindromes\bin\Debug\01_MatrixOfPalindromes.exe.config
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\01_MatrixOfPalindromes\bin\Debug\01_MatrixOfPalindromes.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\01_MatrixOfPalindromes\bin\Debug\01_MatrixOfPalindromes.pdb
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\01_MatrixOfPalindromes\obj\Debug\01_MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\01_MatrixOfPalindromes\obj\Debug\01_MatrixOfPalindromes.csproj.CoreCompileInputs.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\01_MatrixOfPalindromes\obj\Debug\01_MatrixOfPalindromes.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\01_MatrixOfPalindromes\obj\Debug\01_MatrixOfPalindromes.pdb

@@ -1,0 +1,7 @@
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\13_TriFunction\bin\Debug\13_TriFunction.exe.config
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\13_TriFunction\bin\Debug\13_TriFunction.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\13_TriFunction\bin\Debug\13_TriFunction.pdb
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\13_TriFunction\obj\Debug\13_TriFunction.csprojResolveAssemblyReference.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\13_TriFunction\obj\Debug\13_TriFunction.csproj.CoreCompileInputs.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\13_TriFunction\obj\Debug\13_TriFunction.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\13_TriFunction\obj\Debug\13_TriFunction.pdb

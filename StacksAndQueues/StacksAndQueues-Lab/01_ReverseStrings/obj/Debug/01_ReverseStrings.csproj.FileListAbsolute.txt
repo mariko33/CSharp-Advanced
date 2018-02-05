@@ -1,0 +1,7 @@
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\01_ReverseStrings\bin\Debug\01_ReverseStrings.exe.config
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\01_ReverseStrings\bin\Debug\01_ReverseStrings.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\01_ReverseStrings\bin\Debug\01_ReverseStrings.pdb
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\01_ReverseStrings\obj\Debug\01_ReverseStrings.csprojResolveAssemblyReference.cache
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\01_ReverseStrings\obj\Debug\01_ReverseStrings.csproj.CoreCompileInputs.cache
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\01_ReverseStrings\obj\Debug\01_ReverseStrings.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\01_ReverseStrings\obj\Debug\01_ReverseStrings.pdb

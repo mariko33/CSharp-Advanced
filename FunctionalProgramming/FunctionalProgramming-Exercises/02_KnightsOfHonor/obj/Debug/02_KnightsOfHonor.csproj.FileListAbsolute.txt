@@ -1,0 +1,7 @@
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\02_KnightsOfHonor\bin\Debug\02_KnightsOfHonor.exe.config
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\02_KnightsOfHonor\bin\Debug\02_KnightsOfHonor.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\02_KnightsOfHonor\bin\Debug\02_KnightsOfHonor.pdb
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\02_KnightsOfHonor\obj\Debug\02_KnightsOfHonor.csprojResolveAssemblyReference.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\02_KnightsOfHonor\obj\Debug\02_KnightsOfHonor.csproj.CoreCompileInputs.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\02_KnightsOfHonor\obj\Debug\02_KnightsOfHonor.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\02_KnightsOfHonor\obj\Debug\02_KnightsOfHonor.pdb

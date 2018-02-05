@@ -1,0 +1,7 @@
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\02_SquareWithMaximumSum\bin\Debug\02_SquareWithMaximumSum.exe.config
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\02_SquareWithMaximumSum\bin\Debug\02_SquareWithMaximumSum.exe
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\02_SquareWithMaximumSum\bin\Debug\02_SquareWithMaximumSum.pdb
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\02_SquareWithMaximumSum\obj\Debug\02_SquareWithMaximumSum.csprojResolveAssemblyReference.cache
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\02_SquareWithMaximumSum\obj\Debug\02_SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\02_SquareWithMaximumSum\obj\Debug\02_SquareWithMaximumSum.exe
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\02_SquareWithMaximumSum\obj\Debug\02_SquareWithMaximumSum.pdb

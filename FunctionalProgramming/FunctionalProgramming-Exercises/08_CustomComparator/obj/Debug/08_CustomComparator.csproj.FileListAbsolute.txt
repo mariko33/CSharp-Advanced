@@ -1,0 +1,6 @@
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\08_CustomComparator\bin\Debug\08_CustomComparator.exe.config
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\08_CustomComparator\bin\Debug\08_CustomComparator.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\08_CustomComparator\bin\Debug\08_CustomComparator.pdb
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\08_CustomComparator\obj\Debug\08_CustomComparator.csproj.CoreCompileInputs.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\08_CustomComparator\obj\Debug\08_CustomComparator.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\08_CustomComparator\obj\Debug\08_CustomComparator.pdb

@@ -1,0 +1,6 @@
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\04_MatchingBrackets\bin\Debug\04_MatchingBrackets.exe.config
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\04_MatchingBrackets\bin\Debug\04_MatchingBrackets.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\04_MatchingBrackets\bin\Debug\04_MatchingBrackets.pdb
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\04_MatchingBrackets\obj\Debug\04_MatchingBrackets.csproj.CoreCompileInputs.cache
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\04_MatchingBrackets\obj\Debug\04_MatchingBrackets.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\04_MatchingBrackets\obj\Debug\04_MatchingBrackets.pdb

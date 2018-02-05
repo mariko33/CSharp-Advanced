@@ -1,0 +1,7 @@
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\09_ListOfPredicates\bin\Debug\09_ListOfPredicates.exe.config
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\09_ListOfPredicates\bin\Debug\09_ListOfPredicates.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\09_ListOfPredicates\bin\Debug\09_ListOfPredicates.pdb
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\09_ListOfPredicates\obj\Debug\09_ListOfPredicates.csprojResolveAssemblyReference.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\09_ListOfPredicates\obj\Debug\09_ListOfPredicates.csproj.CoreCompileInputs.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\09_ListOfPredicates\obj\Debug\09_ListOfPredicates.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\09_ListOfPredicates\obj\Debug\09_ListOfPredicates.pdb

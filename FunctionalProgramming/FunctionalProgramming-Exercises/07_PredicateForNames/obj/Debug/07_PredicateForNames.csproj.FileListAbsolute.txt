@@ -1,0 +1,7 @@
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\07_PredicateForNames\bin\Debug\07_PredicateForNames.exe.config
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\07_PredicateForNames\bin\Debug\07_PredicateForNames.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\07_PredicateForNames\bin\Debug\07_PredicateForNames.pdb
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\07_PredicateForNames\obj\Debug\07_PredicateForNames.csprojResolveAssemblyReference.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\07_PredicateForNames\obj\Debug\07_PredicateForNames.csproj.CoreCompileInputs.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\07_PredicateForNames\obj\Debug\07_PredicateForNames.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\07_PredicateForNames\obj\Debug\07_PredicateForNames.pdb

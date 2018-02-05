@@ -1,0 +1,7 @@
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\09_Crossfire\bin\Debug\09_Crossfire.exe.config
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\09_Crossfire\bin\Debug\09_Crossfire.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\09_Crossfire\bin\Debug\09_Crossfire.pdb
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\09_Crossfire\obj\Debug\09_Crossfire.csprojResolveAssemblyReference.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\09_Crossfire\obj\Debug\09_Crossfire.csproj.CoreCompileInputs.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\09_Crossfire\obj\Debug\09_Crossfire.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\09_Crossfire\obj\Debug\09_Crossfire.pdb

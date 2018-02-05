@@ -1,0 +1,7 @@
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\05_HotPotato\bin\Debug\05_HotPotato.exe.config
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\05_HotPotato\bin\Debug\05_HotPotato.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\05_HotPotato\bin\Debug\05_HotPotato.pdb
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\05_HotPotato\obj\Debug\05_HotPotato.csprojResolveAssemblyReference.cache
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\05_HotPotato\obj\Debug\05_HotPotato.csproj.CoreCompileInputs.cache
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\05_HotPotato\obj\Debug\05_HotPotato.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\05_HotPotato\obj\Debug\05_HotPotato.pdb

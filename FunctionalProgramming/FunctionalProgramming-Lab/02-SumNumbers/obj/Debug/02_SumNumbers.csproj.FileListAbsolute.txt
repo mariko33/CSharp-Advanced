@@ -1,0 +1,6 @@
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\02-SumNumbers\bin\Debug\02-SumNumbers.exe.config
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\02-SumNumbers\bin\Debug\02-SumNumbers.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\02-SumNumbers\bin\Debug\02-SumNumbers.pdb
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\02-SumNumbers\obj\Debug\02_SumNumbers.csproj.CoreCompileInputs.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\02-SumNumbers\obj\Debug\02-SumNumbers.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\02-SumNumbers\obj\Debug\02-SumNumbers.pdb

@@ -1,0 +1,7 @@
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\09_StackFibonacci\bin\Debug\09_StackFibonacci.exe.config
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\09_StackFibonacci\bin\Debug\09_StackFibonacci.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\09_StackFibonacci\bin\Debug\09_StackFibonacci.pdb
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\09_StackFibonacci\obj\Debug\09_StackFibonacci.csprojResolveAssemblyReference.cache
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\09_StackFibonacci\obj\Debug\09_StackFibonacci.csproj.CoreCompileInputs.cache
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\09_StackFibonacci\obj\Debug\09_StackFibonacci.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\09_StackFibonacci\obj\Debug\09_StackFibonacci.pdb

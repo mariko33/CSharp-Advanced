@@ -1,0 +1,7 @@
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\12_StringMatrixRotation\bin\Debug\12_StringMatrixRotation.exe.config
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\12_StringMatrixRotation\bin\Debug\12_StringMatrixRotation.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\12_StringMatrixRotation\bin\Debug\12_StringMatrixRotation.pdb
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\12_StringMatrixRotation\obj\Debug\12_StringMatrixRotation.csproj.CoreCompileInputs.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\12_StringMatrixRotation\obj\Debug\12_StringMatrixRotation.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\12_StringMatrixRotation\obj\Debug\12_StringMatrixRotation.pdb
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\12_StringMatrixRotation\obj\Debug\12_StringMatrixRotation.csprojResolveAssemblyReference.cache

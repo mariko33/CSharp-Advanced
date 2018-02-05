@@ -1,0 +1,7 @@
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\10_PredicateParty!\bin\Debug\10_PredicateParty!.exe.config
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\10_PredicateParty!\bin\Debug\10_PredicateParty!.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\10_PredicateParty!\bin\Debug\10_PredicateParty!.pdb
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\10_PredicateParty!\obj\Debug\10_PredicateParty!.csprojResolveAssemblyReference.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\10_PredicateParty!\obj\Debug\10_PredicateParty!.csproj.CoreCompileInputs.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\10_PredicateParty!\obj\Debug\10_PredicateParty!.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\10_PredicateParty!\obj\Debug\10_PredicateParty!.pdb

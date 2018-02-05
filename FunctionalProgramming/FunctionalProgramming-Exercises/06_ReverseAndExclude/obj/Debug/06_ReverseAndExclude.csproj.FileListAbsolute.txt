@@ -1,0 +1,6 @@
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\06_ReverseAndExclude\bin\Debug\06_ReverseAndExclude.exe.config
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\06_ReverseAndExclude\bin\Debug\06_ReverseAndExclude.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\06_ReverseAndExclude\bin\Debug\06_ReverseAndExclude.pdb
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\06_ReverseAndExclude\obj\Debug\06_ReverseAndExclude.csproj.CoreCompileInputs.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\06_ReverseAndExclude\obj\Debug\06_ReverseAndExclude.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\06_ReverseAndExclude\obj\Debug\06_ReverseAndExclude.pdb

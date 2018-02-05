@@ -1,0 +1,6 @@
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\04._AddVAT\bin\Debug\04._AddVAT.exe.config
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\04._AddVAT\bin\Debug\04._AddVAT.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\04._AddVAT\bin\Debug\04._AddVAT.pdb
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\04._AddVAT\obj\Debug\04._AddVAT.csproj.CoreCompileInputs.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\04._AddVAT\obj\Debug\04._AddVAT.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\04._AddVAT\obj\Debug\04._AddVAT.pdb

@@ -1,0 +1,7 @@
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\12_InfernoIII\bin\Debug\12_InfernoIII.exe.config
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\12_InfernoIII\bin\Debug\12_InfernoIII.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\12_InfernoIII\bin\Debug\12_InfernoIII.pdb
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\12_InfernoIII\obj\Debug\12_InfernoIII.csprojResolveAssemblyReference.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\12_InfernoIII\obj\Debug\12_InfernoIII.csproj.CoreCompileInputs.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\12_InfernoIII\obj\Debug\12_InfernoIII.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\12_InfernoIII\obj\Debug\12_InfernoIII.pdb

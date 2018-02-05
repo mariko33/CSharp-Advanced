@@ -1,0 +1,6 @@
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\07_BalancedParenthesis\bin\Debug\07_BalancedParenthesis.exe.config
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\07_BalancedParenthesis\bin\Debug\07_BalancedParenthesis.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\07_BalancedParenthesis\bin\Debug\07_BalancedParenthesis.pdb
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\07_BalancedParenthesis\obj\Debug\07_BalancedParenthesis.csproj.CoreCompileInputs.cache
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\07_BalancedParenthesis\obj\Debug\07_BalancedParenthesis.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\07_BalancedParenthesis\obj\Debug\07_BalancedParenthesis.pdb

@@ -1,0 +1,7 @@
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\05_FilterByAge\bin\Debug\05_FilterByAge.exe.config
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\05_FilterByAge\bin\Debug\05_FilterByAge.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\05_FilterByAge\bin\Debug\05_FilterByAge.pdb
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\05_FilterByAge\obj\Debug\05_FilterByAge.csprojResolveAssemblyReference.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\05_FilterByAge\obj\Debug\05_FilterByAge.csproj.CoreCompileInputs.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\05_FilterByAge\obj\Debug\05_FilterByAge.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\05_FilterByAge\obj\Debug\05_FilterByAge.pdb

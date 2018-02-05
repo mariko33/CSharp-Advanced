@@ -1,0 +1,6 @@
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\03_CountUppercaseWords\bin\Debug\03_CountUppercaseWords.exe.config
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\03_CountUppercaseWords\bin\Debug\03_CountUppercaseWords.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\03_CountUppercaseWords\bin\Debug\03_CountUppercaseWords.pdb
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\03_CountUppercaseWords\obj\Debug\03_CountUppercaseWords.csproj.CoreCompileInputs.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\03_CountUppercaseWords\obj\Debug\03_CountUppercaseWords.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Lab\03_CountUppercaseWords\obj\Debug\03_CountUppercaseWords.pdb

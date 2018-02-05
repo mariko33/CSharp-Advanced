@@ -1,0 +1,7 @@
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\07_LegoBlocks\bin\Debug\07_LegoBlocks.exe.config
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\07_LegoBlocks\bin\Debug\07_LegoBlocks.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\07_LegoBlocks\bin\Debug\07_LegoBlocks.pdb
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\07_LegoBlocks\obj\Debug\07_LegoBlocks.csprojResolveAssemblyReference.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\07_LegoBlocks\obj\Debug\07_LegoBlocks.csproj.CoreCompileInputs.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\07_LegoBlocks\obj\Debug\07_LegoBlocks.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\07_LegoBlocks\obj\Debug\07_LegoBlocks.pdb

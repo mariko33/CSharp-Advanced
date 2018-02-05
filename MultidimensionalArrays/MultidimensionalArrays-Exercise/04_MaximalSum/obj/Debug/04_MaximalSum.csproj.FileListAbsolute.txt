@@ -1,0 +1,7 @@
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\04_MaximalSum\bin\Debug\04_MaximalSum.exe.config
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\04_MaximalSum\bin\Debug\04_MaximalSum.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\04_MaximalSum\bin\Debug\04_MaximalSum.pdb
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\04_MaximalSum\obj\Debug\04_MaximalSum.csprojResolveAssemblyReference.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\04_MaximalSum\obj\Debug\04_MaximalSum.csproj.CoreCompileInputs.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\04_MaximalSum\obj\Debug\04_MaximalSum.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\04_MaximalSum\obj\Debug\04_MaximalSum.pdb

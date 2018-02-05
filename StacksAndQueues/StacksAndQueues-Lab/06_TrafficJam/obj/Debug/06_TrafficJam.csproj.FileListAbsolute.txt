@@ -1,0 +1,7 @@
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\06_TrafficJam\bin\Debug\06_TrafficJam.exe.config
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\06_TrafficJam\bin\Debug\06_TrafficJam.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\06_TrafficJam\bin\Debug\06_TrafficJam.pdb
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\06_TrafficJam\obj\Debug\06_TrafficJam.csprojResolveAssemblyReference.cache
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\06_TrafficJam\obj\Debug\06_TrafficJam.csproj.CoreCompileInputs.cache
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\06_TrafficJam\obj\Debug\06_TrafficJam.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\06_TrafficJam\obj\Debug\06_TrafficJam.pdb

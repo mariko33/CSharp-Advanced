@@ -1,0 +1,7 @@
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\03_GroupNumbers\bin\Debug\03_GroupNumbers.exe.config
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\03_GroupNumbers\bin\Debug\03_GroupNumbers.exe
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\03_GroupNumbers\bin\Debug\03_GroupNumbers.pdb
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\03_GroupNumbers\obj\Debug\03_GroupNumbers.csprojResolveAssemblyReference.cache
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\03_GroupNumbers\obj\Debug\03_GroupNumbers.csproj.CoreCompileInputs.cache
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\03_GroupNumbers\obj\Debug\03_GroupNumbers.exe
+D:\C#Advanced\MultidimensionalArrays\Multidimensional Arrays-Lab\03_GroupNumbers\obj\Debug\03_GroupNumbers.pdb

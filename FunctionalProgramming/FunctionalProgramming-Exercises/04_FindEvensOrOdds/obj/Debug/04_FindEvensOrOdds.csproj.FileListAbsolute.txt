@@ -1,0 +1,7 @@
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\04_FindEvensOrOdds\bin\Debug\04_FindEvensOrOdds.exe.config
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\04_FindEvensOrOdds\bin\Debug\04_FindEvensOrOdds.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\04_FindEvensOrOdds\bin\Debug\04_FindEvensOrOdds.pdb
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\04_FindEvensOrOdds\obj\Debug\04_FindEvensOrOdds.csprojResolveAssemblyReference.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\04_FindEvensOrOdds\obj\Debug\04_FindEvensOrOdds.csproj.CoreCompileInputs.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\04_FindEvensOrOdds\obj\Debug\04_FindEvensOrOdds.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\04_FindEvensOrOdds\obj\Debug\04_FindEvensOrOdds.pdb

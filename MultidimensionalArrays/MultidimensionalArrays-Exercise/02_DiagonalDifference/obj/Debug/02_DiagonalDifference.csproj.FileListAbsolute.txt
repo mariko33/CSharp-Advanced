@@ -1,0 +1,7 @@
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\02_DiagonalDifference\bin\Debug\02_DiagonalDifference.exe.config
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\02_DiagonalDifference\bin\Debug\02_DiagonalDifference.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\02_DiagonalDifference\bin\Debug\02_DiagonalDifference.pdb
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\02_DiagonalDifference\obj\Debug\02_DiagonalDifference.csprojResolveAssemblyReference.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\02_DiagonalDifference\obj\Debug\02_DiagonalDifference.csproj.CoreCompileInputs.cache
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\02_DiagonalDifference\obj\Debug\02_DiagonalDifference.exe
+D:\C#Advanced\MultidimensionalArrays\MultidimensionalArrays-Exercise\02_DiagonalDifference\obj\Debug\02_DiagonalDifference.pdb

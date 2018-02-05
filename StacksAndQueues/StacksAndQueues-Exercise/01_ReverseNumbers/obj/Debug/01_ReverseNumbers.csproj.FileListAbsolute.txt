@@ -1,0 +1,7 @@
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\01_ReverseNumbers\bin\Debug\01_ReverseNumbers.exe.config
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\01_ReverseNumbers\bin\Debug\01_ReverseNumbers.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\01_ReverseNumbers\bin\Debug\01_ReverseNumbers.pdb
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\01_ReverseNumbers\obj\Debug\01_ReverseNumbers.csprojResolveAssemblyReference.cache
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\01_ReverseNumbers\obj\Debug\01_ReverseNumbers.csproj.CoreCompileInputs.cache
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\01_ReverseNumbers\obj\Debug\01_ReverseNumbers.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Exercise\01_ReverseNumbers\obj\Debug\01_ReverseNumbers.pdb

@@ -1,0 +1,7 @@
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\01_ActionPrint\bin\Debug\01_ActionPrint.exe.config
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\01_ActionPrint\bin\Debug\01_ActionPrint.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\01_ActionPrint\bin\Debug\01_ActionPrint.pdb
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\01_ActionPrint\obj\Debug\01_ActionPrint.csprojResolveAssemblyReference.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\01_ActionPrint\obj\Debug\01_ActionPrint.csproj.CoreCompileInputs.cache
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\01_ActionPrint\obj\Debug\01_ActionPrint.exe
+D:\C#Advanced\FunctionalProgramming\FunctionalProgramming-Exercises\01_ActionPrint\obj\Debug\01_ActionPrint.pdb

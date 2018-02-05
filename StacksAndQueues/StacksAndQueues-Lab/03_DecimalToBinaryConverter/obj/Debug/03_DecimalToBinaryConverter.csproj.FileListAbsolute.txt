@@ -1,0 +1,6 @@
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\03_DecimalToBinaryConverter\bin\Debug\03_DecimalToBinaryConverter.exe.config
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\03_DecimalToBinaryConverter\bin\Debug\03_DecimalToBinaryConverter.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\03_DecimalToBinaryConverter\bin\Debug\03_DecimalToBinaryConverter.pdb
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\03_DecimalToBinaryConverter\obj\Debug\03_DecimalToBinaryConverter.csproj.CoreCompileInputs.cache
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\03_DecimalToBinaryConverter\obj\Debug\03_DecimalToBinaryConverter.exe
+D:\C#Advanced\StacksAndQueues\StacksAndQueues-Lab\03_DecimalToBinaryConverter\obj\Debug\03_DecimalToBinaryConverter.pdb
